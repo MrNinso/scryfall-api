@@ -1,7 +1,7 @@
 {
-	"name": "scryfall-api",
+	"name": "scryfall-api-ninso",
 	"version": "3.2.4",
-	"description": "A Javascript library for https://scryfall.com/docs/api written in Typescript.",
+	"description": "A fork of https://github.com/MarioMH8/scryfall-api",
 	"keywords": [
 		"magic the gathering",
 		"magic",

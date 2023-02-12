@@ -1,3 +1,5 @@
+A fork of https://github.com/MarioMH8/scryfall-api
+
 # scryfall-api
 
 [![npm](https://img.shields.io/npm/v/scryfall-api?style=flat-square)](https://www.npmjs.com/package/scryfall-api)
